@@ -1,0 +1,1 @@
+Desenvolvimento do fluxo ponta a ponta utilizando MySQL para consulta e preparação dos dados e Power BI para a construção de um dashboard corporativo, estruturando KPIs de faturamento, quantidade de itens, total de pedidos, categorias e evolução temporal das vendas.
