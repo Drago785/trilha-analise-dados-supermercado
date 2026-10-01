@@ -14,7 +14,7 @@ usando o dataset público Supermarket Sales (Kaggle).
 
 | 1 | Dashboard de vendas | SQL básico + Power BI | ✅ |
 | 2 | Receita acumulada por cidade | Window functions + DAX | ✅ |
-| 3 | Comportamento no tempo | Funções de data | ⬜ |
+| 3 | Comportamento no tempo | Funções de data | ✅ |
 | 4 | Faixas de valor da compra | CASE WHEN | ⬜ |
 | 5 | Análise de acessórios | LIKE | ⬜ |
 | 6 | Modelo estrela (fato + dimensões) | Modelagem relacional | ⬜ |
