@@ -1,0 +1,1 @@
+Aplicação de Window Functions (SUM OVER e RANK) no MySQL para calcular a receita acumulada particionada por cidade e o ranking das maiores vendas, complementadas por medidas DAX no Power BI para análise de ticket médio e percentual do total. 
