@@ -1,0 +1,1 @@
+Análise do comportamento das vendas ao longo do tempo utilizando funções de data e hora no MySQL (como DATEDIFF, DAYOFWEEK e ELT), integrada ao Power BI com formatação condicional em cartões de avaliação, ordenação cronológica de dias da semana e gráficos de horários de pico e formas de pagamento.
